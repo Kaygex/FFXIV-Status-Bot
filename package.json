@@ -1,0 +1,17 @@
+{
+  "name": "FFXIV-Status-Bot",
+  "version": "0.1.0",
+  "description": "A FFXIV Discord bot that fetches server statuses ",
+  "main": "index.js",
+  "author": "Kaygex",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaygex/FFXIV-Status-Bot.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.5.1"
+  }
+}
